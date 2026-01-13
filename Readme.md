@@ -1,4 +1,7 @@
 # Apprentissage Supervisé - Implémentation d'Algorithmes Neuronaux
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 
 Ce dépôt regroupe l'ensemble des Travaux Pratiques (TP) réalisés dans le cadre du module d'**Apprentissage Supervisé** du Master 1 Intelligence Artificielle.
 
